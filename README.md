@@ -1,2 +1,2 @@
-# Spring Cloud + Vue 前后端分离开发企业级
+# Spring Cloud + Vue 前后端分离开发企业级在线视频课程系统
 从慕课网教程学习，自训练代码
